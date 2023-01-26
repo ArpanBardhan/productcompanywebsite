@@ -36,11 +36,21 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 
+
 ## OUTPUT:
+
+![output](./OUT1.png)
+![output](./OUT2.png)
+![output](./OUT3.png)
+![output](./OUT4.png)
 
 ### Home Page:
 
 ![output](./images/homepage.jpg)
+
+## HTML VALIDATOR
+
+![output](./OUT5.png)
 
 ## Result:
 

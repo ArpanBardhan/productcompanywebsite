@@ -54,7 +54,7 @@ body {
 
 .menuitem a {
   text-decoration: none;
-  color: #9c1018;
+  color: #eee4e4;
 }
 
 .content {
@@ -133,5 +133,5 @@ body {
   text-align: center;
   padding-top: 10px;
   margin: 0px 0px 0px 0px;
-  color: #9c1018;
+  color: #f5eff5;
 }
